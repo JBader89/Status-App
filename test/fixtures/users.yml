@@ -3,3 +3,9 @@ jeremy:
   last_name: "Bader"
   email: "JBader@conncoll.edu"
   profile_name: "JBader89"
+
+sam:
+  first_name: "Sam"
+  last_name: "Field"
+  email: "SField@conncoll.edu"
+  profile_name: "SField89"
